@@ -1,6 +1,6 @@
-# Extra Carta — Documento de Design
+# Extra Carta — Documento de Design (histórico inicial)
 
-**Status:** conceito em desenvolvimento  
+**Status:** registro histórico — substituído pelas [regras atuais do protótipo](docs/regras-atuais.md)  
 **Atualização:** 11/11/2026  
 **Nome:** Extra Carta (provisório)
 
