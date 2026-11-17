@@ -137,6 +137,8 @@ A extração e atribuição do segundo Coringa encerra a partida:
 
 ## 10. Ideias reservadas (não vigentes)
 
+**Limite de designação consecutiva:** o líder não poderia designar o mesmo jogador como combatente obrigatório em dois combates consecutivos, salvo se esse jogador se voluntariasse. Alternativa reservada para eventual ajuste após o primeiro teste físico, caso a perseguição repetida se mostre problemática. Não integra as regras vigentes.
+
 **Jogadores:** proibição de ser eleito, roubo (inclusive de carta aleatória), proteção contra perda de feijões, reforço de combate, Traição (transferência da obrigação de combater), Emboscada (troca de posição entre monstros ainda não resolvidos após designação do combatente). A mecânica de ativação em pares foi deixada de lado; Anulação foi rejeitada por frustrar o uso de cartas especiais.
 
 **Masmorra:** Escuridão (comprometer cartas antes de saber quem será designado), Azar (monstro lança dois dados e utiliza o maior), Desconfiança (líder obrigado a enfrentar o próximo monstro, com ajuda voluntária), Maldição (perda de dado de reforço ou alteração temporária do combate), Santuário (obtenção de carta adicional).
