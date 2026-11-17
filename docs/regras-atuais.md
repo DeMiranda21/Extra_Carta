@@ -1,6 +1,6 @@
 # Extra Carta — Regras atuais (protótipo)
 
-**Atualização:** 16/11/2026. **Estado:** base para primeiro teste; não balanceada. Este documento prevalece sobre os registros históricos quando houver divergências.
+**Atualização:** 17/11/2026. **Estado:** base para primeiro teste; não balanceada. Este documento prevalece sobre os registros históricos quando houver divergências.
 
 ## 1. Conceito e materiais
 
@@ -94,10 +94,14 @@ Pendências: piso da recompensa (sugestão: zero), momento limite de doações p
 
 | Carta | Nome | Efeito |
 |---|---|---|
-| A | Em aberto | — |
+| A | Reeleição | Qualquer jogador pode utilizar a carta para garantir a permanência do líder atual por mais uma incursão, dispensando a eleição ordinária correspondente. Consome a carta. |
 | J | Fuga | Abandona a masmorra durante a exploração ou entre combates, nunca durante um combate iniciado. Consome a carta, preserva feijões e cartas não utilizadas, mas renuncia a todas as recompensas e ao leilão do Coringa daquela incursão. |
-| Q | Em aberto | — |
+| Q | Autoridade | Escolhe outro jogador presente na masmorra e obriga-o a participar do próximo combate, além do combatente designado pelo líder. Consome a carta. |
 | K | Motim | Uma única carta destitui o líder, obrigando eleição aberta imediata entre os presentes. O destituído pode votar, mas não concorrer nessa votação. Novo líder herda os dados restantes. Consome a carta. Uso durante exploração ou entre combates. |
+
+Todas as cartas especiais dos jogadores são ativadas individualmente, sem necessidade de pares. A Autoridade acrescenta um combatente obrigatório, sem substituir o escolhido pelo líder; aplica-se antes do comprometimento das cartas de combate. O jogador designado está sujeito às consequências normais da derrota, sem obrigação de gastar cartas específicas.
+
+Princípios de design: favorecer efeitos que possam ajudar ou prejudicar outros jogadores conforme a intenção de quem os utiliza; criar decisões e conflitos sem simplesmente anular uma carta especial de outro jogador. Priorizar simplicidade e impacto.
 
 ### Baralho da masmorra (preto)
 
@@ -133,7 +137,7 @@ A extração e atribuição do segundo Coringa encerra a partida:
 
 ## 10. Ideias reservadas (não vigentes)
 
-**Jogadores:** reeleição obrigatória, proibição de ser eleito, roubo (inclusive de carta aleatória), proteção contra perda de feijões e reforço de combate.
+**Jogadores:** proibição de ser eleito, roubo (inclusive de carta aleatória), proteção contra perda de feijões, reforço de combate, Traição (transferência da obrigação de combater), Emboscada (troca de posição entre monstros ainda não resolvidos após designação do combatente). A mecânica de ativação em pares foi deixada de lado; Anulação foi rejeitada por frustrar o uso de cartas especiais.
 
 **Masmorra:** Escuridão (comprometer cartas antes de saber quem será designado), Azar (monstro lança dois dados e utiliza o maior), Desconfiança (líder obrigado a enfrentar o próximo monstro, com ajuda voluntária), Maldição (perda de dado de reforço ou alteração temporária do combate), Santuário (obtenção de carta adicional).
 
@@ -141,7 +145,7 @@ As opções de Labirinto, armadilha de perda simples, Emboscada com soma de dois
 
 ## 11. Pendências e primeiro teste
 
-- Definir A e Q dos jogadores. As cartas especiais da masmorra estão definidas para teste.
+- Todas as cartas especiais dos dois baralhos estão definidas para teste. Esclarecer a janela exata de uso da Reeleição e sua interação com Motim e sucessão do líder; testar a Autoridade em conjunto com Silêncio e múltiplas ativações.
 - Fechar exceções operacionais: esgotamento dos baralhos, recuperação/retorno de artefatos e cartas descartadas, momento de uso de Artefato, empate e lance mínimo no leilão, dois Coringas na mesma incursão, doações e eliminação.
 - Esclarecer se dados extras não usados custam feijão e como tratar os dados do líder quando os recursos físicos se esgotam.
 - Verificar economia, ritmo, número de cartas por incursão, abuso do poder do líder, disponibilidade de cartas/dados e duração até o segundo Coringa.
