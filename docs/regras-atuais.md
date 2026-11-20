@@ -1,6 +1,6 @@
 # Extra Carta — Regras atuais (protótipo)
 
-**Atualização:** 17/11/2026. **Estado:** base para primeiro teste; não balanceada. Este documento prevalece sobre os registros históricos quando houver divergências.
+**Atualização:** 19/11/2026. **Estado:** base para primeiro teste; não balanceada. Este documento prevalece sobre os registros históricos quando houver divergências.
 
 ## 1. Conceito e materiais
 
@@ -44,11 +44,11 @@ Cada jogador escolhe quantos feijões levar e quantas cartas preparar. Recursos 
 - É possível levar feijões adicionais sem obter cartas, e entrar sem cartas.
 - É possível levar cartas guardadas de incursões anteriores, comprometendo novamente um feijão por carta, ou deixá-las fora da masmorra.
 - A quantidade de cartas preparadas é pública; o conteúdo é secreto. Pode-se falar, omitir ou mentir sobre as cartas, mas não mostrá-las antes do uso.
-- Cartas usadas são descartadas independentemente do resultado e retornam à pilha de sorteio em incursões futuras.
+- Cartas usadas são descartadas independentemente do resultado. Quando a pilha de sorteio acabar, embaralhe as cartas gastas para repô-la.
 - Sobreviventes conservam as cartas não usadas e os feijões restantes. Eliminados da incursão perdem as cartas que levaram; o patrimônio guardado fora permanece protegido.
 - Jogadores podem doar feijões uns aos outros.
 
-O líder recebe dois dados gratuitos por incursão e pode adquirir dados adicionais por um feijão cada. Cada dado de reforço é consumido na incursão ao ser usado. Momento exato da cobrança e destino dos dados extras não usados: pendentes.
+O líder recebe dois dados gratuitos por incursão. Durante a preparação, pode comprar dados adicionais por um feijão cada, pago no ato da compra com os feijões protegidos. O pagamento é levado à masmorra junto com os dados comprados e fica separado dos feijões de resistência. Cada dado de reforço é consumido ao ser usado. Ao fim da incursão, os dados restantes são descartados e o pagamento não é devolvido.
 
 ## 5. Exploração
 
@@ -56,7 +56,7 @@ O líder revela uma carta do baralho preto por vez, consultando o grupo se desej
 
 As cartas reveladas ficam acumuladas. Parar significa encerrar a revelação e começar a resolver os desafios, não extrair automaticamente. Resolvem-se na ordem de revelação.
 
-O baralho da masmorra não é reembaralhado entre incursões ordinárias: a exploração prossegue pelas cartas ainda não reveladas. A preparação especial dos Coringas consta na seção 9.
+O baralho da masmorra não é reembaralhado entre incursões ordinárias: a exploração prossegue pelas cartas ainda não reveladas. Ao revelar a última carta, encerre a revelação e resolva os desafios da incursão na ordem normal. Se o baralho permanecer vazio após a resolução, a masmorra se encerra. A preparação e a devolução dos Coringas seguem a seção 9.
 
 ## 6. Combate
 
@@ -94,12 +94,12 @@ Pendências: piso da recompensa (sugestão: zero), momento limite de doações p
 
 | Carta | Nome | Efeito |
 |---|---|---|
-| A | Reeleição | Qualquer jogador pode utilizar a carta para garantir a permanência do líder atual por mais uma incursão, dispensando a eleição ordinária correspondente. Consome a carta. |
+| A | Reeleição | Imediatamente antes da eleição ordinária, qualquer jogador pode usar esta carta para manter o líder em exercício por mais uma incursão e dispensar a votação. Após uma incursão iniciada por Reeleição, a próxima eleição ordinária é obrigatória. O líder pode concorrer normalmente. Consome a carta. |
 | J | Fuga | Abandona a masmorra durante a exploração ou entre combates, nunca durante um combate iniciado. Consome a carta, preserva feijões e cartas não utilizadas, mas renuncia a todas as recompensas e ao leilão do Coringa daquela incursão. |
 | Q | Autoridade | Escolhe outro jogador presente na masmorra e obriga-o a participar do próximo combate, além do combatente designado pelo líder. Consome a carta. |
 | K | Motim | Uma única carta destitui o líder, obrigando eleição aberta imediata entre os presentes. O destituído pode votar, mas não concorrer nessa votação. Novo líder herda os dados restantes. Consome a carta. Uso durante exploração ou entre combates. |
 
-Todas as cartas especiais dos jogadores são ativadas individualmente, sem necessidade de pares. A Autoridade acrescenta um combatente obrigatório, sem substituir o escolhido pelo líder; aplica-se antes do comprometimento das cartas de combate. O jogador designado está sujeito às consequências normais da derrota, sem obrigação de gastar cartas específicas.
+Todas as cartas especiais dos jogadores são ativadas individualmente, sem necessidade de pares. Pode-se usar apenas uma carta de Reeleição ou Motim por incursão. A Reeleição conta para a incursão que ela inicia. A Autoridade acrescenta um combatente obrigatório, sem substituir o escolhido pelo líder; aplica-se antes do comprometimento das cartas de combate. O jogador designado está sujeito às consequências normais da derrota, sem obrigação de gastar cartas específicas.
 
 Princípios de design: favorecer efeitos que possam ajudar ou prejudicar outros jogadores conforme a intenção de quem os utiliza; criar decisões e conflitos sem simplesmente anular uma carta especial de outro jogador. Priorizar simplicidade e impacto.
 
@@ -109,11 +109,11 @@ Princípios de design: favorecer efeitos que possam ajudar ou prejudicar outros 
 |---|---|---|
 | A | Tesouro | Vale três feijões na recompensa total (um normal + dois extras), sem combate. |
 | J | Altar | Um jogador pode voluntariamente sacrificar um feijão próprio. Se ninguém aceitar, retiram-se dois feijões da recompensa coletiva. Não cabe ao líder obrigar alguém a pagar. O grupo pode negociar. |
-| Q | Silêncio | O próximo combate ocorre sem negociação, conversas ou acordos durante o confronto. O líder ainda designa combatente e concede dados normalmente. |
-| K | Artefato | Após extração bem-sucedida, o líder entrega a carta a um sobrevivente à sua escolha, inclusive a si mesmo. Pode ser guardada para futuras incursões. Permite repetir qualquer dado de combate, próprio, de outro jogador ou do monstro; o novo resultado é obrigatório. Descartar após usar. |
+| Q | Silêncio | O próximo combate ocorre sem negociação, conversas ou acordos entre os jogadores durante o confronto. O uso de cartas continua permitido. O líder ainda designa combatente e concede dados normalmente. Se a incursão terminar antes de outro combate, o efeito expira. |
+| K | Artefato | Após extração bem-sucedida, o líder entrega a carta a um sobrevivente à sua escolha, inclusive a si mesmo. Pode ser guardada para futuras incursões. Permite repetir qualquer dado de combate, próprio, de outro jogador ou do monstro, após ver o resultado original. O dado do monstro é repetido antes de conceder reforços, e os dados de reforço podem ser repetidos antes de declarar o resultado do combate. O novo resultado é obrigatório. Descartar após usar. |
 | Joker | Coringa | Objetivo de vitória. Se extraído, será atribuído por leilão secreto, não por escolha do líder. |
 
-Os efeitos de Altar e Silêncio são resolvidos conforme a sequência dos desafios; formalização de casos como Silêncio repetido ou sem monstro subsequente fica pendente. A recompensa-base de um feijão por carta continua aplicável às especiais, salvo ajuste posterior (Tesouro já totaliza três).
+Os efeitos de Altar e Silêncio são resolvidos conforme a sequência dos desafios. O efeito de Silêncios consecutivos fica pendente. A recompensa-base de um feijão por carta continua aplicável às especiais, salvo ajuste posterior (Tesouro já totaliza três).
 
 ## 9. Coringas e condição de vitória
 
@@ -123,7 +123,7 @@ Separe os 52 cartões comuns em duas metades. Embaralhe um Coringa em cada metad
 
 ### Leilão
 
-Após a extração e distribuição dos feijões, os sobreviventes podem negociar e transferir feijões para financiar ofertas próprias ou de aliados. Cada um esconde a oferta e todos revelam simultaneamente. A maior vence; somente o vencedor paga ao banco. Desempate por maior resultado no dado é uma proposta para teste. Um sobrevivente único recebe o Coringa diretamente.
+Após a extração e distribuição dos feijões, os sobreviventes podem negociar e transferir feijões para financiar ofertas próprias ou de aliados. Há uma nova negociação para cada Coringa leiloado. Cada um esconde a oferta e todos revelam simultaneamente. Lance zero é válido. A maior oferta vence e somente o vencedor paga ao banco. Em caso de empate no maior lance, os empatados rolam um d6 cada. Vence o maior resultado. Se o maior resultado permanecer empatado, só quem empatou novamente repete a rolagem. Um sobrevivente único recebe o Coringa diretamente.
 
 O Coringa permanece publicamente com seu portador, que continua jogando e arriscando recursos.
 
@@ -147,9 +147,9 @@ As opções de Labirinto, armadilha de perda simples, Emboscada com soma de dois
 
 ## 11. Pendências e primeiro teste
 
-- Todas as cartas especiais dos dois baralhos estão definidas para teste. Esclarecer a janela exata de uso da Reeleição e sua interação com Motim e sucessão do líder; testar a Autoridade em conjunto com Silêncio e múltiplas ativações.
-- Fechar exceções operacionais: esgotamento dos baralhos, recuperação/retorno de artefatos e cartas descartadas, momento de uso de Artefato, empate e lance mínimo no leilão, dois Coringas na mesma incursão, doações e eliminação.
-- Esclarecer se dados extras não usados custam feijão e como tratar os dados do líder quando os recursos físicos se esgotam.
+- Todas as cartas especiais dos dois baralhos estão definidas para teste. Testar a Autoridade em conjunto com Silêncio e esclarecer múltiplas ativações de Autoridade e Silêncios consecutivos.
+- Definir o que fazer se a pilha vermelha e o descarte se esgotarem, o destino de Artefatos em caso de eliminação, a ordem de atribuição se dois Coringas saírem na mesma incursão e o momento limite de doações para evitar ou reverter eliminação.
+- Esclarecer como tratar os dados do líder quando os recursos físicos se esgotam.
 - Verificar economia, ritmo, número de cartas por incursão, abuso do poder do líder, disponibilidade de cartas/dados e duração até o segundo Coringa.
 - Não há necessidade de adicionar outras mecânicas antes de observar o primeiro teste físico. Os valores iniciais e efeitos podem ser balanceados depois.
 
