@@ -1,160 +1,71 @@
-# Extra Carta — Regras atuais (protótipo)
+# Extra Carta — Regras atuais do protótipo
 
-**Atualização:** 19/11/2026. **Estado:** base para primeiro teste; não balanceada. Este documento prevalece sobre os registros históricos quando houver divergências.
+Versão consolidada após os testes de novembro de 2026. Referência de mesa para quatro jogadores.
 
-## 1. Conceito e materiais
+## Preparar a mesa
 
-Jogo de extração, cooperação temporária, negociação, eleições e traição, com várias incursões curtas. A simplicidade é prioridade. Não há combate direto entre jogadores nesta versão.
+Cada jogador começa com dez feijões. Use dois baralhos comuns distinguíveis, dados de seis faces, papel e caneta. O vermelho tem 52 cartas de jogadores. Embaralhe os dois coringas com todas as 52 cartas do baralho preto da masmorra. Cartas 2–10 têm força numérica. As demais têm os efeitos indicados abaixo. Não há combate direto entre jogadores.
 
-Referência: quatro jogadores, dois baralhos comuns de cores distintas, até nove dados de seis faces, feijões, papel e caneta. Tabuleiro e peças são opcionais e não têm função definida.
+## Eleger o líder e preparar a incursão
 
-- Baralho vermelho: 52 cartas de jogadores, sem coringas.
-- Baralho preto: 54 cartas da masmorra, incluindo dois coringas.
-- Cartas 2–10 representam força; A, J, Q e K têm funções especiais próprias de cada baralho.
-- Feijões representam simultaneamente patrimônio, resistência e pontuação. Referência inicial: dez por jogador, sujeita a balanceamento.
+Os jogadores podem negociar, prometer, blefar, doar feijões e oferecer subornos. Doações são permitidas a qualquer momento. Cada um escreve um voto, inclusive em si mesmo. Misturem e revelem os votos anonimamente. O mais votado vence. Nos empates de eleição, cada empatado lança um d6 e apenas os ainda empatados no maior resultado repetem.
 
-## 2. Ciclo da partida
+Cada jogador recebe duas vidas a cada incursão normal, inclusive se estiver sem feijões. Escolhe quais cartas guardadas levar e quantas novas sortear. Compromete um feijão para cada carta levada, nova ou guardada. Pode levar feijões adicionais ou entrar sem cartas. Os feijões e as cartas deixados fora ficam protegidos. O tamanho da mão é público. Seu conteúdo é secreto até o uso.
 
-1. Eleição do líder.
-2. Preparação individual.
-3. Exploração: revelação sucessiva das cartas da masmorra.
-4. Resolução de todos os desafios revelados, na ordem.
-5. Extração dos sobreviventes e distribuição das recompensas; eventual leilão de Coringa.
-6. Nova incursão, salvo encerramento da partida.
+O líder começa com um dado gratuito e pode comprar **um único dado adicional por um feijão**, durante a preparação. O feijão sai do patrimônio protegido e acompanha a compra em separado. Cada reforço é de uso único. No fim da incursão os dados expiram, sem reembolso.
 
-## 3. Eleições e liderança
+## Explorar em pares
 
-Antes de cada incursão, os jogadores negociam livremente, inclusive promessas, doações e subornos. Cada jogador escreve seu voto em um papel, que é dobrado e misturado com os demais. Os papéis são revelados e contabilizados de forma anônima. É permitido votar em si mesmo. Vence quem obtiver mais votos; empate é decidido pelo maior resultado em um d6 entre empatados (repetir se necessário).
+O líder revela duas cartas da masmorra. Depois de cada par pode parar ou assumir o compromisso de revelar o par seguinte, mesmo que a primeira carta seja um coringa. Se restar só uma carta, revele-a. Não há profundidade mínima além da primeira revelação. O líder pode ouvir o grupo e toma a decisão final. Parar inicia a resolução de todas as cartas reveladas, na ordem em que saíram.
 
-O líder:
-- Decide quando parar de revelar cartas.
-- Designa o combatente obrigatório de cada monstro.
-- Controla os dados de reforço disponíveis.
-- Distribui livremente a recompensa final, inclusive podendo ficar com toda ela, e escolhe os destinatários dos artefatos.
+Separe um feijão de saque por carta revelada. Ajuste o monte pelos resultados dos desafios, com piso zero. A masmorra continua do ponto em que parou entre incursões bem-sucedidas. Ao revelar a última carta, termine a resolução normalmente.
 
-O líder não controla a atribuição do Coringa, que é decidido por leilão. Seu comportamento afeta a confiança e as eleições futuras, sem marcador de reputação.
+## Resolver os monstros
 
-Se fugir, for eliminado ou sofrer Motim, ocorre nova eleição entre os presentes na masmorra. Dentro da masmorra, a votação é aberta e simultânea, apontando para o candidato escolhido; sem papéis. O novo líder assume os dados restantes, sem reiniciar a incursão. No Motim, o líder destituído pode votar, mas não pode ser eleito nessa votação.
+1. O líder designa um combatente obrigatório, inclusive a si mesmo. A mesma pessoa só pode ser designada em dois combates consecutivos se ela se voluntariar. Outros jogadores podem ajudar voluntariamente.
+2. Após negociar, cada participante escolhe secretamente quantas cartas numéricas usar. Revelem juntas. As cartas comprometidas são definitivas e vão para o descarte após o uso.
+3. Monstros 2–7 somam seu valor a um d6. Monstros 8–10 somam seu valor ao total de dois d6.
+4. Conhecendo a força inimiga, o líder decide a quem conceder os dados de reforço restantes. Pode dar vários ao mesmo combatente ou a si mesmo. Lancem os reforços concedidos de uma só vez.
+5. Se cartas e reforços igualarem ou superarem o monstro, o grupo vence. Pode-se lutar só com dados. Se perder, cada participante perde uma vida e o saque coletivo perde dois feijões. Não há revanche. Quem ficou fora do combate conserva as vidas.
 
-## 4. Preparação e economia
+Na segunda vida perdida, o jogador sai da incursão, perde as cartas e os feijões que ainda levava e deixa de participar do saque. Volta à próxima incursão com duas vidas, mesmo sem patrimônio. Cartas vermelhas perdidas ou gastas retornam ao ciclo de compra pelo descarte. Quando acabar a pilha de compra, embaralhe o descarte.
 
-Cada jogador escolhe quantos feijões levar e quantas cartas preparar. Recursos não levados ficam protegidos fora da masmorra.
+## Cartas especiais
 
-- Sortear uma carta do baralho vermelho exige comprometer um feijão. Não é pagamento definitivo: o feijão acompanha o jogador na incursão e integra sua resistência.
-- É possível levar feijões adicionais sem obter cartas, e entrar sem cartas.
-- É possível levar cartas guardadas de incursões anteriores, comprometendo novamente um feijão por carta, ou deixá-las fora da masmorra.
-- A quantidade de cartas preparadas é pública; o conteúdo é secreto. Pode-se falar, omitir ou mentir sobre as cartas, mas não mostrá-las antes do uso.
-- Cartas usadas são descartadas independentemente do resultado. Quando a pilha de sorteio acabar, embaralhe as cartas gastas para repô-la.
-- Sobreviventes conservam as cartas não usadas e os feijões restantes. Eliminados da incursão perdem as cartas que levaram; o patrimônio guardado fora permanece protegido.
-- Jogadores podem doar feijões uns aos outros.
+Cada carta vermelha é ativada individualmente e consumida no uso.
 
-O líder recebe dois dados gratuitos por incursão. Durante a preparação, pode comprar dados adicionais por um feijão cada, pago no ato da compra com os feijões protegidos. O pagamento é levado à masmorra junto com os dados comprados e fica separado dos feijões de resistência. Cada dado de reforço é consumido ao ser usado. Ao fim da incursão, os dados restantes são descartados e o pagamento não é devolvido.
-
-## 5. Exploração
-
-O líder revela uma carta do baralho preto por vez, consultando o grupo se desejar. Somente ele decide continuar ou parar; não há limite de revelações além da disponibilidade do baralho. Os jogadores não podem sair livremente, salvo por efeito especial.
-
-As cartas reveladas ficam acumuladas. Parar significa encerrar a revelação e começar a resolver os desafios, não extrair automaticamente. Resolvem-se na ordem de revelação.
-
-O baralho da masmorra não é reembaralhado entre incursões ordinárias: a exploração prossegue pelas cartas ainda não reveladas. Ao revelar a última carta, encerre a revelação e resolva os desafios da incursão na ordem normal. Se o baralho permanecer vazio após a resolução, a masmorra se encerra. A preparação e a devolução dos Coringas seguem a seção 9.
-
-## 6. Combate
-
-Para cada monstro (2–10):
-
-1. O líder indica um combatente obrigatório, inclusive podendo escolher a si mesmo.
-2. Os jogadores negociam; outros podem participar voluntariamente.
-3. Os participantes escolhem secretamente quantas cartas numéricas quiserem comprometer.
-4. Revelam simultaneamente. O compromisso é definitivo: não se acrescentam cartas depois.
-5. O monstro lança um d6; sua força é o valor da carta mais o resultado.
-6. Conhecendo a força do monstro, o líder determina quantos dados de reforço conceder e a quem. Pode conceder vários, inclusive para si mesmo. Não há dado automático por jogador.
-7. Todos os dados concedidos são lançados simultaneamente, sem novas concessões após a rolagem (salvo efeitos especiais).
-8. Soma-se o valor de todas as cartas dos combatentes e dos dados concedidos. Se o resultado for igual ou superior à força do monstro, os jogadores vencem.
-
-As cartas usadas são descartadas sempre. Na vitória, os combatentes conservam seus feijões. Na derrota, cada participante perde exatamente um feijão, independentemente do número de cartas usadas ou da força do monstro. Não participantes não sofrem esse dano. A recompensa coletiva também diminui em um feijão.
-
-É permitido combater apenas com dados. Um combatente obrigatório sem cartas e sem dados pode ser sacrificado; se não houver contribuição capaz de vencer, ocorre derrota. Na ausência total de resistência, a derrota é automática. Não há revanche contra o monstro: avança-se ao próximo desafio.
-
-## 7. Extração e recompensas
-
-A recompensa potencial é de um feijão por carta revelada, acrescida ou reduzida por efeitos especiais. Cada monstro vencedor reduz esse montante em um feijão. Não é mais necessário derrotar todos os monstros: a extração é bem-sucedida para os jogadores que sobrevivem até a resolução de todas as cartas.
-
-- Zero feijões dentro da masmorra: eliminação da incursão, perda das cartas levadas e ausência de recompensa.
-- Zero feijões no patrimônio total: eliminação da partida, salvo doação de outro jogador que permita continuar.
-- Se todos forem eliminados, não há recompensa. Não existe penalidade automática adicional.
-- Somente sobreviventes que completam a incursão têm direito à recompensa, artefatos e disputa de Coringas; fugitivos não recebem esses benefícios.
-- O líder distribui livremente a recompensa em feijões, inclusive podendo concentrá-la em si.
-- Se apenas um jogador completar a incursão, ele recebe toda a recompensa e eventual Coringa sem leilão.
-
-Pendências: piso da recompensa (sugestão: zero), momento limite de doações para evitar ou reverter eliminação, e tratamento de cartas especiais não resolvidas em caso de fracasso total.
-
-## 8. Cartas especiais
-
-### Baralho dos jogadores (vermelho)
-
-| Carta | Nome | Efeito |
+| Carta | Vermelha — jogadores | Preta — masmorra |
 |---|---|---|
-| A | Reeleição | Imediatamente antes da eleição ordinária, qualquer jogador pode usar esta carta para manter o líder em exercício por mais uma incursão e dispensar a votação. Após uma incursão iniciada por Reeleição, a próxima eleição ordinária é obrigatória. O líder pode concorrer normalmente. Consome a carta. |
-| J | Fuga | Abandona a masmorra durante a exploração ou entre combates, nunca durante um combate iniciado. Consome a carta, preserva feijões e cartas não utilizadas, mas renuncia a todas as recompensas e ao leilão do Coringa daquela incursão. |
-| Q | Autoridade | Escolhe outro jogador presente na masmorra e obriga-o a participar do próximo combate, além do combatente designado pelo líder. Consome a carta. |
-| K | Motim | Uma única carta destitui o líder, obrigando eleição aberta imediata entre os presentes. O destituído pode votar, mas não concorrer nessa votação. Novo líder herda os dados restantes. Consome a carta. Uso durante exploração ou entre combates. |
+| A | **Reeleição.** Antes da votação ordinária, qualquer jogador pode manter o líder por mais uma incursão. Após isso, a próxima eleição ordinária é obrigatória. | **Tesouro.** Acrescenta dois feijões ao saque, além do feijão-base dessa carta. |
+| J | **Fuga.** Durante a exploração ou entre combates, o jogador pode sair com seus feijões e cartas restantes. Abre mão do saque, dos artefatos e do leilão daquela incursão. | **Altar.** Qualquer jogador pode oferecer um feijão próprio. Se ninguém pagar, retire dois do saque. |
+| Q | **Autoridade.** Antes de comprometer as cartas, obriga outro jogador presente a participar do próximo combate além do designado pelo líder. O alvo escolhe suas cartas normalmente. | **Silêncio.** A partir da resolução desta carta, os jogadores ficam sem conversar pelo resto da incursão. As cartas e decisões de jogo continuam permitidas. Outro Silêncio mantém o mesmo efeito. |
+| K | **Motim.** Durante a exploração ou entre combates, destitui o líder e provoca eleição aberta imediata. Cabe um Motim por incursão, inclusive nas iniciadas por Reeleição. O destituído vota, mas não concorre naquela eleição. | **Artefato.** O líder entrega a um sobrevivente após a extração. Pode ser guardado para repetir um dado de combate após ver o resultado. Repita o dado do monstro antes da concessão de reforços ou um reforço antes da apuração. Vale a nova rolagem. Descarte após o uso. |
 
-Todas as cartas especiais dos jogadores são ativadas individualmente, sem necessidade de pares. Pode-se usar apenas uma carta de Reeleição ou Motim por incursão. A Reeleição conta para a incursão que ela inicia. A Autoridade acrescenta um combatente obrigatório, sem substituir o escolhido pelo líder; aplica-se antes do comprometimento das cartas de combate. O jogador designado está sujeito às consequências normais da derrota, sem obrigação de gastar cartas específicas.
+Quando o líder foge, sai por perda das vidas ou sofre Motim, os presentes elegem outro por votação aberta e simultânea. O sucessor herda os reforços disponíveis. Não se reinicia a incursão.
 
-Princípios de design: favorecer efeitos que possam ajudar ou prejudicar outros jogadores conforme a intenção de quem os utiliza; criar decisões e conflitos sem simplesmente anular uma carta especial de outro jogador. Priorizar simplicidade e impacto.
+## Extrair e leiloar
 
-### Baralho da masmorra (preto)
+Os sobreviventes extraem após resolver a fila, mesmo que tenham perdido combates. Recuperam os feijões restantes e guardam as cartas não usadas. Para levar essas cartas na próxima incursão, cada uma volta a exigir um feijão. O líder divide o saque livremente entre os que completaram, podendo ficar com tudo, e atribui os artefatos. Um sobrevivente único recebe tudo. Sem sobreviventes, ninguém recebe recompensa. Reúna **todas as cartas pretas da incursão fracassada**, inclusive as já resolvidas, e reembaralhe-as com a masmorra restante antes da próxima incursão.
 
-| Carta | Nome | Efeito |
-|---|---|---|
-| A | Tesouro | Vale três feijões na recompensa total (um normal + dois extras), sem combate. |
-| J | Altar | Um jogador pode voluntariamente sacrificar um feijão próprio. Se ninguém aceitar, retiram-se dois feijões da recompensa coletiva. Não cabe ao líder obrigar alguém a pagar. O grupo pode negociar. |
-| Q | Silêncio | O próximo combate ocorre sem negociação, conversas ou acordos entre os jogadores durante o confronto. O uso de cartas continua permitido. O líder ainda designa combatente e concede dados normalmente. Se a incursão terminar antes de outro combate, o efeito expira. |
-| K | Artefato | Após extração bem-sucedida, o líder entrega a carta a um sobrevivente à sua escolha, inclusive a si mesmo. Pode ser guardada para futuras incursões. Permite repetir qualquer dado de combate, próprio, de outro jogador ou do monstro, após ver o resultado original. O dado do monstro é repetido antes de conceder reforços, e os dados de reforço podem ser repetidos antes de declarar o resultado do combate. O novo resultado é obrigatório. Descartar após usar. |
-| Joker | Coringa | Objetivo de vitória. Se extraído, será atribuído por leilão secreto, não por escolha do líder. |
+Depois da divisão, os sobreviventes elegíveis podem negociar e financiar lances. Cada um esconde seu lance, inclusive zero. Revelem juntos. Todos pagam ao banco o que ofereceram. A maior oferta leva o coringa. Empatados lançam um d6 cada e repetem entre os maiores se necessário. Não é obrigatório reservar feijão para a final. Sobrevivente único elegível recebe a chave diretamente. Cada coringa tem sua negociação. Quem já possui chave não disputa outra. O portador e sua chave ficam visíveis. Coringa não extraído retorna à masmorra restante, que é reembaralhada.
 
-Os efeitos de Altar e Silêncio são resolvidos conforme a sequência dos desafios. O efeito de Silêncios consecutivos fica pendente. A recompensa-base de um feijão por carta continua aplicável às especiais, salvo ajuste posterior (Tesouro já totaliza três).
+## Abrir a porta e enfrentar o Guardião
 
-## 9. Coringas e condição de vitória
+O primeiro portador pode abrir a porta ou guardar a chave para se preparar em incursões futuras. Quem adquire a segunda chave já decide se quer abrir. A preparação ocorre em turnos, começando pelo último líder e seguindo em sentido horário. Quando apenas um portador quer abrir, ele leva o coringa. Quando ambos querem, cada um lança **um d6**. O maior resultado leva a chave. **Só um coringa entra na incursão do Guardião.**
 
-### Montagem da masmorra
+Se os dois coringas aparecerem na mesma incursão e forem extraídos, realiza-se o leilão do primeiro e a porta abre imediatamente. Se a masmorra terminar com chave em posse de alguém, a final é obrigatória. Se terminar sem chave obtida, todos perdem.
 
-Separe os 52 cartões comuns em duas metades. Embaralhe um Coringa em cada metade e reúna as duas sem misturá-las entre si. Isso distribui a busca ao longo da partida. Se um Coringa for revelado mas não extraído, devolva-o ao baralho restante e reembaralhe esse baralho. O mesmo vale se seu portador for eliminado definitivamente da partida.
+Todos os jogadores ainda na partida lutam, inclusive quem saiu da incursão anterior. A final não tem líder, reforços ou artefatos. Cada jogador pode sortear até uma carta nova e escolher uma única numérica, sorteada ou guardada. Para usá-la, compromete um feijão. Sem feijão ou sem carta numérica, luta só com o dado.
 
-### Leilão
+O Guardião tem força **40 + 1d6**. Cada jogador soma à própria carta o resultado de um d6. O único portador que levou a chave lança dois d6 e usa o maior. Se o total da equipe for inferior à força do Guardião, todos perdem. Se igualar ou superar, vence quem tiver a maior contribuição individual. Empate individual é decidido por d6 entre os empatados. Esta condição individual está aprovada para uso e continua em avaliação de design.
 
-Após a extração e distribuição dos feijões, os sobreviventes podem negociar e transferir feijões para financiar ofertas próprias ou de aliados. Há uma nova negociação para cada Coringa leiloado. Cada um esconde a oferta e todos revelam simultaneamente. Lance zero é válido. A maior oferta vence e somente o vencedor paga ao banco. Em caso de empate no maior lance, os empatados rolam um d6 cada. Vence o maior resultado. Se o maior resultado permanecer empatado, só quem empatou novamente repete a rolagem. Um sobrevivente único recebe o Coringa diretamente.
+## Questões ainda em avaliação
 
-O Coringa permanece publicamente com seu portador, que continua jogando e arriscando recursos.
-
-### Encerramento
-
-A extração e atribuição do segundo Coringa encerra a partida:
-- Se uma pessoa possuir ambos, vence automaticamente.
-- Se estiverem com pessoas diferentes, vence aquela que tiver mais feijões totais após o pagamento do leilão.
-- Empate: vence quem extraiu/adquiriu o primeiro Coringa.
-- Quem não possui Coringa não pode vencer.
-
-## 10. Ideias reservadas (não vigentes)
-
-**Limite de designação consecutiva:** o líder não poderia designar o mesmo jogador como combatente obrigatório em dois combates consecutivos, salvo se esse jogador se voluntariasse. Alternativa reservada para eventual ajuste após o primeiro teste físico, caso a perseguição repetida se mostre problemática. Não integra as regras vigentes.
-
-**Jogadores:** proibição de ser eleito, roubo (inclusive de carta aleatória), proteção contra perda de feijões, reforço de combate, Traição (transferência da obrigação de combater), Emboscada (troca de posição entre monstros ainda não resolvidos após designação do combatente). A mecânica de ativação em pares foi deixada de lado; Anulação foi rejeitada por frustrar o uso de cartas especiais.
-
-**Masmorra:** Escuridão (comprometer cartas antes de saber quem será designado), Azar (monstro lança dois dados e utiliza o maior), Desconfiança (líder obrigado a enfrentar o próximo monstro, com ajuda voluntária), Maldição (perda de dado de reforço ou alteração temporária do combate), Santuário (obtenção de carta adicional).
-
-As opções de Labirinto, armadilha de perda simples, Emboscada com soma de dois dados, Separação, Portal e as primeiras versões de Sacrifício/Oferenda não foram aprovadas. O Altar substitui essas propostas de sacrifício.
-
-## 11. Pendências e primeiro teste
-
-- Todas as cartas especiais dos dois baralhos estão definidas para teste. Testar a Autoridade em conjunto com Silêncio e esclarecer múltiplas ativações de Autoridade e Silêncios consecutivos.
-- Definir o que fazer se a pilha vermelha e o descarte se esgotarem, o destino de Artefatos em caso de eliminação, a ordem de atribuição se dois Coringas saírem na mesma incursão e o momento limite de doações para evitar ou reverter eliminação.
-- Esclarecer como tratar os dados do líder quando os recursos físicos se esgotam.
-- Verificar economia, ritmo, número de cartas por incursão, abuso do poder do líder, disponibilidade de cartas/dados e duração até o segundo Coringa.
-- Não há necessidade de adicionar outras mecânicas antes de observar o primeiro teste físico. Os valores iniciais e efeitos podem ser balanceados depois.
+- Compra definitiva de cartas, dado adicional por dois feijões, recompensa individual por monstro e poder de aceitar ou recusar ajuda são possibilidades de teste.
+- Pendente de esclarecimento a referência ao “artefato de mais feijões”, seu valor e o destino de artefato previamente guardado ao perder as duas vidas. O Tesouro preto já tem efeito imediato e o Artefato de repetição já é de uso único.
+- Casos de mesa a esclarecer quando ocorrerem incluem a designação com um único jogador disponível, várias Autoridades no mesmo combate e a atribuição da segunda chave quando só seu atual portador completa a incursão.
+- Para os jogadores simulados, evitar gastar Fuga quando a fila restante não tem combate. Na mesa a decisão pertence ao jogador.
 
 ## Histórico
 
-- [Registro de 13/11/2026](estado-do-projeto-2026-11-13.md)
-- [Registro de 16/11/2026, anterior à consolidação](estado-do-projeto-2026-11-16.md)
-- [Documento original](../README.md) (preservado no histórico Git).
+[Regras anteriores, de 19 de novembro](https://github.com/DeMiranda21/Extra_Carta/blob/2f9aa622911efa60a1edee9710192095322d64bb/docs/regras-atuais.md) · [Registro de 13 de novembro](estado-do-projeto-2026-11-13.md) · [Registro de 16 de novembro](estado-do-projeto-2026-11-16.md)
