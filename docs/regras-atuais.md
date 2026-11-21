@@ -36,7 +36,7 @@ Cada carta vermelha é ativada individualmente e consumida no uso.
 
 | Carta | Vermelha — jogadores | Preta — masmorra |
 |---|---|---|
-| A | **Reeleição.** Antes da votação ordinária, qualquer jogador pode manter o líder por mais uma incursão. Após isso, a próxima eleição ordinária é obrigatória. | **Tesouro.** Acrescenta dois feijões ao saque, além do feijão-base dessa carta. |
+| A | **Reeleição.** Antes da votação ordinária, qualquer jogador pode manter o líder por mais uma incursão. Após isso, a próxima eleição ordinária é obrigatória. | **Tesouro.** Acrescenta imediatamente dois feijões ao saque, além do feijão-base dessa carta. Depois de resolver o efeito, descarte o A. |
 | J | **Fuga.** Durante a exploração ou entre combates, o jogador pode sair com seus feijões e cartas restantes. Abre mão do saque, dos artefatos e do leilão daquela incursão. | **Altar.** Qualquer jogador pode oferecer um feijão próprio. Se ninguém pagar, retire dois do saque. |
 | Q | **Autoridade.** Antes de comprometer as cartas, obriga outro jogador presente a participar do próximo combate além do designado pelo líder. O alvo escolhe suas cartas normalmente. | **Silêncio.** A partir da resolução desta carta, os jogadores ficam sem conversar pelo resto da incursão. As cartas e decisões de jogo continuam permitidas. Outro Silêncio mantém o mesmo efeito. |
 | K | **Motim.** Durante a exploração ou entre combates, destitui o líder e provoca eleição aberta imediata. Cabe um Motim por incursão, inclusive nas iniciadas por Reeleição. O destituído vota, mas não concorre naquela eleição. | **Artefato.** O líder entrega a um sobrevivente após a extração. Pode ser guardado para repetir um dado de combate após ver o resultado. Repita o dado do monstro antes da concessão de reforços ou um reforço antes da apuração. Vale a nova rolagem. Descarte após o uso. |
@@ -62,7 +62,7 @@ O Guardião tem força **40 + 1d6**. Cada jogador soma à própria carta o resul
 ## Questões ainda em avaliação
 
 - Compra definitiva de cartas, dado adicional por dois feijões, recompensa individual por monstro e poder de aceitar ou recusar ajuda são possibilidades de teste.
-- Pendente de esclarecimento a referência ao “artefato de mais feijões”, seu valor e o destino de artefato previamente guardado ao perder as duas vidas. O Tesouro preto já tem efeito imediato e o Artefato de repetição já é de uso único.
+- O destino de um Artefato de repetição previamente guardado ao perder as duas vidas segue em aberto.
 - Casos de mesa a esclarecer quando ocorrerem incluem a designação com um único jogador disponível, várias Autoridades no mesmo combate e a atribuição da segunda chave quando só seu atual portador completa a incursão.
 - Para os jogadores simulados, evitar gastar Fuga quando a fila restante não tem combate. Na mesa a decisão pertence ao jogador.
 
